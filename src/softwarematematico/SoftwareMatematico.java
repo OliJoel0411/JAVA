@@ -8,7 +8,7 @@ public class SoftwareMatematico {
     public static void main(String[] args) {
         // Lectura de datos
         Scanner tc = new Scanner(System.in);
-        
+        // editando
         // Variables
         int opc = 0;
         String opc1 = "",opc2 = "", opc3 = "", opc4 = "", opc5 = "";
