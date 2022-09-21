@@ -7,14 +7,11 @@ public class SoftwareMatematico {
 
     public static void main(String[] args) {
         
-        /*
-        Haciendo prueba de commit
-        ...
+       
         
-        Estoy haciendo cambios 
-        */
-        /*
-        hice un segundo cambio a mi proyecto
+        
+         /*
+        Git PC Gaming
         */
         
         // Lectura de datos
